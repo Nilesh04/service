@@ -1,0 +1,6 @@
+{
+  "name": "MachineCare",
+  "description": "Industrial machinery customer service, complaint tracking, spare parts, and field engineer dispatch portal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
